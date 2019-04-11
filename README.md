@@ -1,1 +1,1 @@
-![Labo Secu Poster](https://raw.githubusercontent.com/LaboSecu/PropagandaPoster/master/Affiche.png)
+![Labo Secu Poster](https://raw.githubusercontent.com/LaboSecu/PropagandaPoster/master/Affiche_v2.png)
